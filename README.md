@@ -4,10 +4,6 @@
 
 [https://alchemy-react-secret-treehouse.netlify.app](https://alchemy-react-secret-treehouse.netlify.app)
 
-## Get Started
-
-Use [this template](https://github.com/alchemycodelab/react-secret-treehouse) to get started.
-
 ### Learning Objectives
 
 - Use private routes to enforce auth
