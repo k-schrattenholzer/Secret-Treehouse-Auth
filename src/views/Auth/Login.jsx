@@ -20,7 +20,7 @@ export default function Login() {
     const loginWasSuccessful = auth.login(formState.email, formState.password);
 
     return !loginWasSuccessful ?
-            <h4 className={styles.error}>{error}</h4> : history.replace(from)   
+            setError("login unsuccessful bb, try again?") : history.replace(from)   
   };
 
   return (
